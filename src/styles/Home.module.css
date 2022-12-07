@@ -41,9 +41,20 @@
 
 .title {
   margin: 0;
-  line-height: 1.15;
-  font-size: 4rem;
+  line-height: 1.1;
+  letter-spacing: 0.94px;
+  color: var(--unnamed-color-000000);
+  /* font-family: "poppins"; */
+  /* font-size: 13rem; */
 }
+/* .sbtitle{
+  color: var(--unnamed-color-000000);
+text-align: center;
+font: normal normal 600 47px/70px Poppins;
+letter-spacing: 0.94px;
+color: #000000;
+text-transform: capitalize;
+} */
 
 .title,
 .description {
